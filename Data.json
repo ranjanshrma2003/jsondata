@@ -3,7 +3,7 @@
         "_id": "60c67bdff5ee510015f3dda8",
         "name": "CrispSound Headphones",
         "price": "$23.00",
-        "category": "Electronics",
+        "category": "gadget",
         "image": "https://ld-wt73.template-help.com/tf/techzoid/images/product-1-220x160.png",
         "createdAt": "2021-06-13T21:42:55.573Z"
     },
@@ -11,7 +11,7 @@
         "_id": "60c67bc0f5ee510015f3dda7",
         "name": "Grex T1 Headphones",
         "price": "$13.00",
-        "category": "Electronics",
+        "category": "gadget",
         "image": "https://ld-wt73.template-help.com/tf/techzoid/images/product-2-191x132.png",
         "createdAt": "2021-06-13T21:42:24.070Z"
     },
@@ -19,7 +19,7 @@
         "_id": "60c67ba9f5ee510015f3dda6",
         "name": "Smartex Laptop GRX1",
         "price": "$11.00",
-        "category": "Electronics",
+        "category": "gadget",
         "image": "https://ld-wt73.template-help.com/tf/techzoid/images/product-4-204x125.png",
         "createdAt": "2021-06-13T21:42:01.515Z"
     },
@@ -27,7 +27,7 @@
         "_id": "60c67b95f5ee510015f3dda5",
         "name": "MITO uWatch Green",
         "price": "$10.00",
-        "category": "Electronics",
+        "category": "gadget",
         "image": "https://ld-wt73.template-help.com/tf/techzoid/images/product-8-210x133.png",
         "createdAt": "2021-06-13T21:41:41.640Z"
     },
@@ -35,7 +35,7 @@
         "_id": "60c67b7ef5ee510015f3dda4",
         "name": "MITO uWatch Pink",
         "price": "$18.00",
-        "category": "Electronics",
+        "category": "gadget",
         "image": "https://ld-wt73.template-help.com/tf/techzoid/images/product-9-185x155.png",
         "createdAt": "2021-06-13T21:41:18.956Z"
     },
@@ -43,7 +43,7 @@
         "_id": "60c67b6af5ee510015f3dda3",
         "name": "BoAt Watches",
         "price": "$200.00",
-        "category": "Electronics",
+        "category": "gadget",
         "image": "https://shreethemes.in/techwind/layouts/assets/images/smartwatch/2.png",
         "createdAt": "2021-06-13T21:40:58.192Z"
     },
@@ -51,7 +51,7 @@
         "_id": "60c67b5af5ee510015f3dda2",
         "name": "RealMe Watch 2 Pro",
         "price": 599,
-        "category": "Electronics",
+        "category": "gadget",
         "image": "https://shreethemes.in/techwind/layouts/assets/images/smartwatch/1.png",
         "createdAt": "2021-06-13T21:40:42.881Z"
     },
@@ -59,7 +59,7 @@
         "_id": "60c67b47f5ee510015f3dda1",
         "name": "RealMe Dizo Pro",
         "price": "$250.00",
-        "category": "Electronics",
+        "category": "gadget",
         "image": "https://shreethemes.in/techwind/layouts/assets/images/smartwatch/feature.png",
         "createdAt": "2021-06-13T21:40:23.941Z"
     },
@@ -67,7 +67,7 @@
         "_id": "60c67b32f5ee510015f3dda0",
         "name": "Wireless Airpods",
         "price": "$120.00",
-        "category": "Electronics",
+        "category": "gadget",
         "image": "https://cdn.shopify.com/s/files/1/0591/3103/5824/products/5_3523b5b3-a904-4335-ae4a-5e9d556dce1a_558X600_crop_center.png",
         "createdAt": "2021-06-13T21:40:02.211Z"
     },
@@ -75,7 +75,7 @@
         "_id": "60c67acaf5ee510015f3dd9f",
         "name": "Sennheiser - True Wireless",
         "price": "$790.00",
-        "category": "Electronics",
+        "category": "gadget",
         "image": "https://cdn.shopify.com/s/files/1/0591/3103/5824/products/3_ce3816fe-0fe4-4e14-852f-311b0ce09224_200x220_crop_center.jpg?v=1629971409",
         "createdAt": "2021-06-13T21:38:18.489Z"
     }
